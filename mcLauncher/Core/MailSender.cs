@@ -35,7 +35,7 @@ namespace craftersmine.MinecraftLauncher.Core
             client.Timeout = 10000;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.UseDefaultCredentials = false;
-            client.Credentials = new System.Net.NetworkCredential("blockslife.bugreporter@gmail.com", "7531598426rodionpass");
+            client.Credentials = new System.Net.NetworkCredential("blockslife.bugreporter@gmail.com", "blockslifeerrorreporter");
             return client;
         }
 
