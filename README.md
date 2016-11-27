@@ -15,9 +15,10 @@
 
 Укажу ваше внимание на строку
 
-* ```PHP
-$launcher_root_directory = "/launcher/"; 
+```PHP
+$launcher_root_directory = "/launcher/";
 ```
+
 Здесь нужно указать имя созданной вами папки
 
 ---
